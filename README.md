@@ -2,8 +2,11 @@
 
 ###
 <br>
-<br>
-<p align="left">+I'm Junior Full Satck Developer<br>+I'm current study Software Development at Cubos Academy<br>+Fun fact: I love pets but I don't like strogonoff</p>
+<ul align="left">
+    <li>💻 I'm Junior Full Satck Developer 💻</li><br>
+    <li>🚀 I'm current study Software Development at Cubos Academy 🚀</li><br>
+    <li>Fun fact: I love pets 💕 but I don't like strogonoff 🤷‍♀️</li><br>
+</ul>
 
 ###
 
@@ -31,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
 </div>
+<br>
+<br>
 <div align="right">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
