@@ -3,9 +3,9 @@
 ###
 <br>
 <ul align="left">
-    <li>💻 I'm Junior Full Satck Developer 💻</li><br>
+    <li>💻 I'm Junior Full Stack Developer 💻</li><br>
     <li>🚀 I'm current study Software Development at Cubos Academy 🚀</li><br>
-    <li>Fun fact: I love pets 💕 but I don't like strogonoff 🤷‍♀️</li><br>
+    <li>Fun fact: I love pets 💕 and I have 7 cats 🐈🐈‍⬛</li><br>
 </ul>
 
 ###
