@@ -21,49 +21,49 @@
     <a href='https://html.com/' target="_blank">
       <img src="https://skillicons.dev/icons?i=html"/>
     </a>
-    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS' target="_blank">
       <img src="https://skillicons.dev/icons?i=css"/>
     </a>
-    <a href='https://www.javascript.com/'>
+    <a href='https://www.javascript.com/' target="_blank">
       <img src="https://skillicons.dev/icons?i=js"/>
     </a>
-    <a href='https://www.typescriptlang.org/'>
+    <a href='https://www.typescriptlang.org/' target="_blank">
       <img src="https://skillicons.dev/icons?i=ts"/>
     </a>
-    <a href='https://reactjs.org/'>
+    <a href='https://reactjs.org/' target="_blank">
       <img src="https://skillicons.dev/icons?i=react"/>
     </a>
-    <a href='https://nodejs.org/en/'>
+    <a href='https://nodejs.org/en/' target="_blank">
       <img src="https://skillicons.dev/icons?i=nodejs"/>
     </a>
-    <a href='https://express.com/'>
+    <a href='https://express.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=express"/>
     </a>
-    <a href='https://mui.com/'>
+    <a href='https://mui.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=mui"/>
     </a>
-    <a href='https://styled-components.com/'>
+    <a href='https://styled-components.com/' target="_blank">
       <img src="https://skillicons.dev/icons?i=styledcomponents"/>
     </a>
-    <a href='https://sass-lang.com/'>
+    <a href='https://sass-lang.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=sass"/>
     </a>
-    <a href='https://postgres.com/'>
+    <a href='https://postgres.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=postgres"/>
     </a>
-    <a href='https://netlify.com/'>
+    <a href='https://netlify.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=netlify"/>
     </a>
-    <a href='https://vercel.com/'>
+    <a href='https://vercel.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=vercel"/>
     </a>
-    <a href='https://vscode.com/'>
+    <a href='https://vscode.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=vscode"/>
     </a>
-    <a href='https://git-scm.com/'>
+    <a href='https://git-scm.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=git"/>
     </a>
-    <a href='https://github.com/Mirian97'>
+    <a href='https://github.com/Mirian97'target="_blank">
      <img src="https://skillicons.dev/icons?i=github"/>
     </a>
  </p>
@@ -72,16 +72,16 @@
 ## <img src="./assets/mailbox.png" alt="Hammer and wrench" height="24px" /> Contact me
 
 <div align="center">
-<a href="https://www.linkedin.com/in/dev-mirian-quispe/">
+<a href="https://www.linkedin.com/in/dev-mirian-quispe/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
-<a href="https://discord.com/users/MirianQuispe#6046">
+<a href="https://discord.com/users/MirianQuispe#6046" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </a>
-<a href="https://mail.google.com/mail/u/0/?compose=KtbxLwGrRmTZNvVtXNGcWWQJxvbqdgZPGB">
+<a href="https://mail.google.com/mail/u/0/?compose=KtbxLwGrRmTZNvVtXNGcWWQJxvbqdgZPGB" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </a>
-<a href="mailto:mirian_quispe97@hotmail.com">
+<a href="mailto:mirian_quispe97@hotmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
 </a>
 </div>
