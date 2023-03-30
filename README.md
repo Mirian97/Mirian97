@@ -8,7 +8,7 @@
 
 - 💻 I'm Junior Full Stack Developer 💻
 
-- 🚀 I'm current study Software Development at Cubos Academy 🚀
+- 🚀 I'm current study Typescript to improve my projects 🚀
 
 - Fun fact: I love pets 💕 and I have 7 cats 🐈🐈‍⬛
 
@@ -18,7 +18,7 @@
 
 <div align="center">
  <p>
-    <a href='https://html.com/'>
+    <a href='https://html.com/' target="_blank">
       <img src="https://skillicons.dev/icons?i=html"/>
     </a>
     <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
