@@ -1,4 +1,4 @@
-<h2 align="left">Hi <img src="./assets/waving-hand.gif" alt="Waving hand"/> ! My name's Mirian!</h2>
+<h2 align="left">Hi <img src="./assets/waving-hand.gif" height="16px" alt="Waving hand"/> ! My name's Mirian!</h2>
 
 ###
 
