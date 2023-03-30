@@ -1,4 +1,4 @@
-<img src="./assets/pixel-art.gif" alt="Pixel Art" min-width="400px" max-width="450px" width="400px" align="right" />
+<img src="./assets/cat.gif" alt="Pixel Art" min-width="400px" max-width="400px" align="right" />
 
 # Hey <img src="./assets/waving-hand.gif" height="40px" alt="Waving hand"/> ! My name's Mirian!
 
