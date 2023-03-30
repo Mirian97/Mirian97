@@ -4,7 +4,7 @@
 
 <br>
 
-## About me <img src="./assets/smiling-face.gif" alt="Smiling face" height="24px" />
+## <img src="./assets/smiling-face.gif" alt="Smiling face" height="24px" /> About me
 
 - 💻 I'm Junior Full Stack Developer 💻
 
@@ -12,7 +12,63 @@
 
 - Fun fact: I love pets 💕 and I have 7 cats 🐈🐈‍⬛
 
----
+<br>
+
+## <img src="./assets/hammer-and-wrench.png" alt="Smiling face" height="24px" /> Tech Stack
+
+<div align="left">
+ <p>
+    <a href='https://html.com/'>
+      <img src="https://skillicons.dev/icons?i=html"/>
+    </a>
+    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
+      <img src="https://skillicons.dev/icons?i=css"/>
+    </a>
+    <a href='https://www.javascript.com/'>
+      <img src="https://skillicons.dev/icons?i=js"/>
+    </a>
+    <a href='https://www.typescriptlang.org/'>
+      <img src="https://skillicons.dev/icons?i=ts"/>
+    </a>
+    <a href='https://reactjs.org/'>
+      <img src="https://skillicons.dev/icons?i=react"/>
+    </a>
+    <a href='https://nodejs.org/en/'>
+      <img src="https://skillicons.dev/icons?i=nodejs"/>
+    </a>
+    <a href='https://express.com/'>
+     <img src="https://skillicons.dev/icons?i=express"/>
+    </a>
+    <a href='https://mui.com/'>
+     <img src="https://skillicons.dev/icons?i=mui"/>
+    </a>
+    <a href='https://styled-components.com/'>
+      <img src="https://skillicons.dev/icons?i=styledcomponents"/>
+    </a>
+    <a href='https://sass-lang.com/'>
+     <img src="https://skillicons.dev/icons?i=sass"/>
+    </a>
+    <a href='https://postgres.com/'>
+     <img src="https://skillicons.dev/icons?i=postgres"/>
+    </a>
+    <a href='https://netlify.com/'>
+     <img src="https://skillicons.dev/icons?i=netlify"/>
+    </a>
+    <a href='https://vercel.com/'>
+     <img src="https://skillicons.dev/icons?i=vercel"/>
+    </a>
+    <a href='https://vscode.com/'>
+     <img src="https://skillicons.dev/icons?i=vscode"/>
+    </a>
+    <a href='https://git-scm.com/'>
+     <img src="https://skillicons.dev/icons?i=git"/>
+    </a>
+    <a href='https://github.com/Mirian97'>
+     <img src="https://skillicons.dev/icons?i=github"/>
+    </a>
+ </p>
+
+</div>
 
 <br>
 
@@ -27,17 +83,6 @@
 
 ###
 
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" width="42" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-</div>
 <br>
 <br>
 <div align="right">
