@@ -1,22 +1,23 @@
-<h2 align="left">Hi <img src="./assets/waving-hand.gif" height="40px" alt="Waving hand"/> ! My name's Mirian!</h2>
-
-###
+# Hey <img src="./assets/waving-hand.gif" height="40px" alt="Waving hand"/> ! My name's Mirian!
 
 <br>
-<ul align="left">
-    <li>💻 I'm Junior Full Stack Developer 💻</li><br>
-    <li>🚀 I'm current study Software Development at Cubos Academy 🚀</li><br>
-    <li>Fun fact: I love pets 💕 and I have 7 cats 🐈🐈‍⬛</li><br>
-</ul>
 
-###
+## About me <img src="./assets/smiling-face.gif" alt="Smiling face" height="16px" />
+
+- 💻 I'm Junior Full Stack Developer 💻
+
+- 🚀 I'm current study Software Development at Cubos Academy 🚀
+
+- Fun fact: I love pets 💕 and I have 7 cats 🐈🐈‍⬛
+
+---
+
+<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mirian97&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" alt="Mirian Status"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirian97&layout=compact&langs_count=7&theme=ocean_dark&count_private=true" alt="Mirian Status"/>
 </div>
-
-###
 
 <br clear="both">
 
