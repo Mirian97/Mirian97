@@ -6,11 +6,17 @@
 
 ## About me <img src="./assets/smiling-face.gif" alt="Smiling face" height="24px" />
 
-- 💻 I'm Junior Full Stack Developer 💻
+- 💻 I'm Full-Stack Developer;
 
-- 🚀 I'm current study Typescript to improve my projects 🚀
+- ✨ I graduated in Full-Stack development at [Cubos Academy](https://github.com/cubos-academy);
 
-- Fun fact: I love pets 💕 and I have 7 cats 🐈🐈‍⬛
+- 🔭 I'm currently working as a Junior Full-Stack Freelancer;
+
+- 🚀 I'm currently studying **Typescript, Next.JS and Tailwind CSS** 🚀;
+
+- 💬 You can ask me about **JavaScript, React.JS, HTML, CSS, Node.JS, Express.JS, SQL**, i will do my best to answer 😁;
+
+- 😎 A little more about me: I'm a huge pet lover 💕, and I have the joy of sharing my life with seven adorable cats 🐈🐈‍⬛. I enjoy watching Anime and Movies 📺, as well as reading books 📚 that transports me to different realities 🌍.
 
 <br>
 
@@ -33,11 +39,20 @@
     <a href='https://reactjs.org/' target="_blank">
       <img src="https://skillicons.dev/icons?i=react"/>
     </a>
+     <a href='https://react-redux.js.org/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=redux"/>
+    </a>
     <a href='https://nodejs.org/en/' target="_blank">
       <img src="https://skillicons.dev/icons?i=nodejs"/>
     </a>
     <a href='https://express.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=express"/>
+    </a>
+    <a href='https://nextjs.org/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=next"/>
+    </a>
+    <a href='https://tailwindcss.com/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=tailwind"/>
     </a>
     <a href='https://mui.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=mui"/>
@@ -50,6 +65,9 @@
     </a>
     <a href='https://postgres.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=postgres"/>
+    </a>
+    <a href='https://getbootstrap.com.br/docs/4.1/getting-started/introduction/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=bootstrap"/>
     </a>
     <a href='https://netlify.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=netlify"/>
