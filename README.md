@@ -1,6 +1,6 @@
 <img src="./assets/cat.gif" alt="Pixel Art" min-width="400px" max-width="400px" align="right" />
 
-# Hey <img src="./assets/waving-hand.gif" height="40px" alt="Waving hand"/> ! My name's Mirian!
+# Hey <img src="./assets/waving-hand.gif" height="40px" alt="Waving hand"/> ! My name's <a href='https://www.linkedin.com/in/dev-mirian-quispe/'  target='_blank'>Mirian</a>!
 
 <br>
 
@@ -12,9 +12,11 @@
 
 - 🔭 I'm currently working as a Junior Full-Stack Freelancer;
 
-- 🚀 I'm currently studying **Typescript, Next.JS and Tailwind CSS** 🚀;
+- 😍 My personal **<a href='https://mirian-quispe.netlify.app' target='_blank'>portfolio</a>**;
 
-- 💬 You can ask me about **JavaScript, React.JS, HTML, CSS, Node.JS, Express.JS, SQL**, i will do my best to answer 😁;
+- 💬 You can ask me about **Typescript, React.JS, HTML, CSS, Node.JS, Express.JS, SQL**, i will do my best to answer 😁;
+
+- 🚀 I'm currently studying **Next.JS and Tailwind CSS** 🚀;
 
 - 😎 A little more about me: I'm a huge pet lover 💕, and I have the joy of sharing my life with seven adorable cats 🐈🐈‍⬛. I enjoy watching Anime and Movies 📺, as well as reading books 📚 that transports me to different realities 🌍.
 
