@@ -1,6 +1,6 @@
 <img src="./assets/cat.gif" alt="Pixel Art" min-width="400px" max-width="400px" align="right" />
 
-# Hey <img src="./assets/waving-hand.gif" height="40px" alt="Waving hand"/> ! My name's <a href='https://www.linkedin.com/in/dev-mirian-quispe/'  target='_blank'>Mirian</a>!
+# Hey <img src="./assets/waving-hand.gif" height="40px" alt="Waving hand"/> ! My name's <a href='https://www.linkedin.com/in/dev-mirian-quispe/' target='_blank' style='color: #ff6563' >Mirian</a>!
 
 <br>
 
@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working as a Junior Full-Stack Freelancer;
 
-- 😍 My personal **<a href='https://mirian-quispe.netlify.app' target='_blank'>portfolio</a>**;
+- 😍 My personal **<a href='https://mirian-quispe.netlify.app/sobre' target='_blank'>portfolio</a>**;
 
 - 💬 You can ask me about **Typescript, React.JS, HTML, CSS, Node.JS, Express.JS, SQL**, i will do my best to answer 😁;
 
