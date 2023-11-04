@@ -1,6 +1,6 @@
 <img src="./assets/cat.gif" alt="Pixel Art" min-width="400px" max-width="400px" align="right" />
 
-# Hey <img src="./assets/waving-hand.gif" height="40px" alt="Waving hand"/> ! My name's <a href='https://www.linkedin.com/in/dev-mirian-quispe/' target='_blank' style='color: #ff6563' >Mirian</a>!
+# Hey <img src="./assets/waving-hand.gif" height="40px" width="40px" alt="Waving hand"/> ! My name's <a href='https://www.linkedin.com/in/dev-mirian-quispe/' target='_blank' style='color: #ff6563' >Mirian</a>!
 
 <br>
 
@@ -10,7 +10,7 @@
 
 - ✨ I graduated in Full-Stack development at [Cubos Academy](https://github.com/cubos-academy);
 
-- 🔭 I'm currently working as a Junior Full-Stack Freelancer;
+- 🔭 I'm currently working as Frontend Developer at Wivenn;
 
 - 😍 My personal **<a href='https://mirian-quispe.netlify.app/sobre' target='_blank'>portfolio</a>**;
 
@@ -18,7 +18,7 @@
 
 - 🚀 I'm currently studying **Next.JS and Tailwind CSS** 🚀;
 
-- 😎 A little more about me: I'm a huge pet lover 💕, and I have the joy of sharing my life with seven adorable cats 🐈🐈‍⬛. I enjoy watching Anime and Movies 📺, as well as reading books 📚 that transports me to different realities 🌍.
+- 😎 A little more about me: I'm a huge pet lover 💕, and I have the joy of sharing my life with six adorable cats 🐈🐈‍⬛. I enjoy watching Anime and Movies 📺, as well as reading books 📚 that transports me to different realities 🌍.
 
 <br>
 
