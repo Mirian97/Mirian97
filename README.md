@@ -1,6 +1,6 @@
 <img src="./assets/cat.gif" alt="Pixel Art" min-width="400px" max-width="400px" align="right" />
 
-# Hey <img src="./assets/waving-hand.gif" width="40px" alt="Waving hand"/> ! My name's <a href='https://www.linkedin.com/in/dev-mirian-quispe/' target='_blank' style='color: #ff6563' >Mirian</a>!
+# Hey 👋! My name's <a href='https://www.linkedin.com/in/dev-mirian-quispe/' target='_blank' style='color: #ff6563' >Mirian</a>!
 
 <br>
 
