@@ -8,17 +8,17 @@
 
 - 💻 I'm Full-Stack Developer;
 
-- ✨ I graduated in Full-Stack development at [Cubos Academy](https://github.com/cubos-academy);
-
 - 🔭 I'm currently working as Frontend Developer at Wivenn;
+
+- ✨ I graduated in Full-Stack development at [Cubos Academy](https://github.com/cubos-academy);
 
 - 😍 My personal **<a href='https://mirian-quispe.netlify.app/sobre' target='_blank'>portfolio</a>**;
 
-- 💬 You can ask me about **Typescript, React.JS, HTML, CSS, Node.JS, Express.JS, SQL**, i will do my best to answer 😁;
+- 💬 You can ask me about **Typescript, React.JS, Node.JS, Express.JS, SQL**, i will do my best to answer 😁;
 
-- 🚀 I'm currently studying **Next.JS and Tailwind CSS** 🚀;
+- 🚀 I'm currently studying **Angular** 🚀;
 
-- 😎 A little more about me: I'm a huge pet lover 💕, and I have the joy of sharing my life with six adorable cats 🐈🐈‍⬛. I enjoy watching Anime and Movies 📺, as well as reading books 📚 that transports me to different realities 🌍.
+- 😎 A little more about me: I'm a huge pet lover 💕, and I have the joy of sharing my life with seven adorable cats 🐈🐈‍⬛. I enjoy watching Anime and Movies 📺, as well as reading books 📚 that transports me to different realities 🌍.
 
 <br>
 
@@ -41,8 +41,17 @@
     <a href='https://reactjs.org/' target="_blank">
       <img src="https://skillicons.dev/icons?i=react"/>
     </a>
+    <a href='https://nextjs.org/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=next"/>
+    </a>
+    <a href='https://angular.dev/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=angular"/>
+    </a>
      <a href='https://react-redux.js.org/' target="_blank">
      <img src="https://skillicons.dev/icons?i=redux"/>
+    </a>
+    <a href='https://jestjs.io/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=jest"/>
     </a>
     <a href='https://nodejs.org/en/' target="_blank">
       <img src="https://skillicons.dev/icons?i=nodejs"/>
@@ -50,8 +59,8 @@
     <a href='https://express.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=express"/>
     </a>
-    <a href='https://nextjs.org/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=next"/>
+    <a href='https://www.postman.com/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=postman"/>
     </a>
     <a href='https://tailwindcss.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=tailwind"/>
@@ -62,20 +71,11 @@
     <a href='https://styled-components.com/' target="_blank">
       <img src="https://skillicons.dev/icons?i=styledcomponents"/>
     </a>
-    <a href='https://sass-lang.com/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=sass"/>
-    </a>
     <a href='https://postgres.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=postgres"/>
     </a>
-    <a href='https://getbootstrap.com.br/docs/4.1/getting-started/introduction/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=bootstrap"/>
-    </a>
-    <a href='https://netlify.com/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=netlify"/>
-    </a>
-    <a href='https://vercel.com/' target="_blank">
-     <img src="https://skillicons.dev/icons?i=vercel"/>
+    <a href='https://www.mysql.com/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=mysql"/>
     </a>
     <a href='https://vscode.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=vscode"/>
