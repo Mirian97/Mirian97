@@ -16,7 +16,7 @@
 
 - 💬 You can ask me about **Typescript, React.JS, Node.JS, Express.JS, SQL**, i will do my best to answer 😁;
 
-- 🚀 I'm currently studying **Angular** 🚀;
+- 🚀 I'm currently studying **Angular** and **Java** 🚀;
 
 - 😎 A little more about me: I'm a huge pet lover 💕, and I have the joy of sharing my life with seven adorable cats 🐈🐈‍⬛. I enjoy watching Anime and Movies 📺, as well as reading books 📚 that transports me to different realities 🌍.
 
