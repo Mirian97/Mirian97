@@ -1,16 +1,16 @@
-<img src="./assets/cat.gif" alt="Pixel Art" min-width="400px" max-width="400px" align="right" />
+<img src="./assets/cat-sleeping.jpg" alt="Pixel Art" width="240px" height="240px" align="right" style="position: relative; top:0; right: 0; z-index: 1" />
 
-# Hey 👋! My name's <a href='https://www.linkedin.com/in/dev-mirian-quispe/' target='_blank' style='color: #ff6563' >Mirian</a>!
+# Hey! <img src="./assets/waving-hand.png" alt="Pixel Art" width="40px" height="40"/> My name's <a href='https://www.linkedin.com/in/dev-mirian-quispe/' target='_blank' style='color: #ff6563' >Mirian</a>!
 
 <br>
 
 ## About me <img src="./assets/smiling-face.gif" alt="Smiling face" height="24px" />
 
-- 💻 I'm Full-Stack Developer;
+- 💻 I'm Fullstack Developer;
 
 - 🔭 I'm currently working as Frontend Developer at Wivenn;
 
-- ✨ I graduated in Full-Stack development at [Cubos Academy](https://github.com/cubos-academy);
+- ✨ I graduated in Fullstack Development at [Cubos Academy](https://github.com/cubos-academy);
 
 - 😍 My personal **<a href='https://mirian-quispe.netlify.app/sobre' target='_blank'>portfolio</a>**;
 
@@ -59,6 +59,12 @@
     <a href='https://express.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=express"/>
     </a>
+    <a href='https://www.php.net/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=php"/>
+    </a>
+    <a href='https://laravel.com/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=laravel"/>
+    </a>
     <a href='https://www.postman.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=postman"/>
     </a>
@@ -68,14 +74,18 @@
     <a href='https://mui.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=mui"/>
     </a>
-    <a href='https://styled-components.com/' target="_blank">
-      <img src="https://skillicons.dev/icons?i=styledcomponents"/>
     </a>
     <a href='https://postgres.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=postgres"/>
     </a>
     <a href='https://www.mysql.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=mysql"/>
+    </a>
+    <a href='https://www.docker.com/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=docker"/>
+    </a>
+     <a href='https://www.linux.com/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=linux"/>
     </a>
     <a href='https://vscode.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=vscode"/>
@@ -91,19 +101,23 @@
 
 ## <img src="./assets/mailbox.png" alt="Hammer and wrench" height="24px" /> Contact me
 
-<div align="center">
-<a href="https://www.linkedin.com/in/dev-mirian-quispe/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</a>
-<a href="https://discord.com/users/MirianQuispe#6046" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</a>
-<a href="https://mail.google.com/mail/u/0/?compose=KtbxLwGrRmTZNvVtXNGcWWQJxvbqdgZPGB" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</a>
-<a href="mailto:mirian_quispe97@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-</a>
+<div style="display:flex; gap: 16px; align-items: center;">
+  <img src="./assets/cat-seing-window.jpg" alt="Pixel Art" width="240px" height="240px"/>
+  <div style="display: flex; flex-direction: column;">
+    <a href="https://www.linkedin.com/in/dev-mirian-quispe/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?compose=KtbxLwGrRmTZNvVtXNGcWWQJxvbqdgZPGB" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    </a>
+    <a href="mailto:mirian_quispe97@hotmail.com" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+    </a>
+    <a href="https://discord.com/users/MirianQuispe#6046" target="_blank">
+      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    </a>
+  </div>
+
 </div>
 
 ## <img src="./assets/red-flag.gif" alt="Red flag" height="24px" /> GitHub Analytics
