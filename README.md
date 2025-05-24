@@ -59,6 +59,12 @@
     <a href='https://express.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=express"/>
     </a>
+    <a href='https://java.com/'target="_blank">
+     <img src="https://skillicons.dev/icons?i=java"/>
+    </a>
+    <a href='https://spring.io/projects/spring-boot'target="_blank">
+     <img src="https://skillicons.dev/icons?i=spring"/>
+    </a>
     <a href='https://www.php.net/' target="_blank">
      <img src="https://skillicons.dev/icons?i=php"/>
     </a>
