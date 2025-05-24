@@ -1,4 +1,4 @@
-<img src="./assets/cat-sleeping.jpg" alt="Pixel Art" width="240px" height="240px" align="right" style="position: relative; top:0; right: 0; z-index: 1" />
+<img src="./assets/cat-sleeping.jpg" alt="Pixel Art" width="280px" height="280px" align="right" style="position: relative; top:0; right: 0; z-index: 1" />
 
 # Hey! <img src="./assets/waving-hand.png" alt="Pixel Art" width="40px" height="40"/> My name's <a href='https://www.linkedin.com/in/dev-mirian-quispe/' target='_blank' style='color: #ff6563' >Mirian</a>!
 
@@ -99,38 +99,31 @@
  </p>
 </div>
 
----
-
 <br/>
-
-<div style="display: flex; gap: 20px 80px; flex-wrap: wrap; width: 100%; justify-content: center; align-items: center;" >
-  <img src="./assets/cat-seing-window.jpg" alt="Hammer and wrench" height="300px" />
-  <div >
 
 ## <img src="./assets/mailbox.png" alt="Hammer and wrench" height="24px" /> Contact me
 
-  <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; width: 100%" align="center">
-    <a href="https://www.linkedin.com/in/dev-mirian-quispe/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?compose=KtbxLwGrRmTZNvVtXNGcWWQJxvbqdgZPGB" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    </a>
-    <a href="mailto:mirian_quispe97@hotmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-    </a>
-    <a href="https://discord.com/users/MirianQuispe#6046" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-    </a>
-  </div>
-  </div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/dev-mirian-quispe/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?compose=KtbxLwGrRmTZNvVtXNGcWWQJxvbqdgZPGB" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="mailto:mirian_quispe97@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://discord.com/users/MirianQuispe#6046" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ## <img src="./assets/red-flag.gif" alt="Red flag" height="24px" /> GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mirian97&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" alt="Mirian Status"/>
+  <img src="./assets/cat-seing-window.jpg" alt="Hammer and wrench" height="180px" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirian97&layout=compact&langs_count=7&theme=ocean_dark&count_private=true" alt="Mirian Status"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mirian97&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true" alt="Mirian Status"/>
 </div>
 
 ---
