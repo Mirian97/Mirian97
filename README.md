@@ -1,4 +1,4 @@
-<img src="./assets/cat-sleeping.jpg" alt="Pixel Art" width="280px" height="280px" align="right" style="position: relative; top:0; right: 0; z-index: 1" />
+<img src="./assets/cat-sleeping.jpg" alt="Pixel Art" width="320px" height="320px" align="right" style="position: relative; top:0; right: 0; z-index: 1" />
 
 # Hey! <img src="./assets/waving-hand.png" alt="Pixel Art" width="40px" height="40"/> My name's <a href='https://www.linkedin.com/in/dev-mirian-quispe/' target='_blank' style='color: #ff6563' >Mirian</a>!
 
