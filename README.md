@@ -87,6 +87,9 @@
     <a href='https://www.mysql.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=mysql"/>
     </a>
+   <a href='https://docs.sentry.io/' target="_blank">
+     <img src="https://skillicons.dev/icons?i=sentry"/>
+    </a>
     <a href='https://www.docker.com/' target="_blank">
      <img src="https://skillicons.dev/icons?i=docker"/>
     </a>
